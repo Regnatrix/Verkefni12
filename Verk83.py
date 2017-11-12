@@ -1,4 +1,5 @@
 import bottle
+from sys import argv
 from bottle import static_file, request, error, run, template, route
 from beaker.middleware import SessionMiddleware
 
