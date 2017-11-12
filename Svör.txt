@@ -1,0 +1,20 @@
+Free hosting lefir okkur að hosta vef án þess að borga fyrir það
+Shared hosting er vefur sem getur haldið utan um margar síður
+virtual hosting er host sem er bara hægt að sjá á einum stað
+Dedicated hosting server sem notandi setur up og deilir honum ekki til annara
+Collocated hosting er private server sem notandin á
+ecommerce hosting er notað til að selja og kaupa hluti á netinu
+
+Þegar vefhýsing er komin í gang, þá getur verið nauðsynlegt að fylgjast með
+notendum síðunnar, nefndu 3- 5 atriði sem gjarnan eru skráð um notendur og
+útskýrðu hvert og eitt þeirra. 
+1 að fylgjast með hvað notandi er að gera/ og hefur áhuga á vefnum
+2 fylgjast með upplýsingum frá notendum eins og notandanafn og lykilorð
+3 fylgjast með hversu margir notendur eru búnir að skoða vefinn þinn 
+
+Ef þú vilt að síðan þín fá alla þá athygi sem þú óskar, hvað þarf að gera eða hafa í
+huga þegar auka þarf innlit á síðuna þína, nefndu 3- 5 atriði sem eru notuð til að
+laða að notendur og útskýrðu hvert og eitt þeirra.
+1 efnið á síðuni þarf að vera áhugavert fyrir notendur til að koma aftur og skoða meira.
+2 útlit vefsíðunnar verður að vera áhugavert og þægilegt.
+3 valmöguleiki á að senda inn athugasemd í gegnum vefsíðuna sem sendist þá með tölvupósti þannig hægt sé að koma spurningum og athugasemdum um eitthvað tengt síðunni til skila.
